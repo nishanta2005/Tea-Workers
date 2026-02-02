@@ -1,0 +1,12 @@
+{
+  "name": "tea-disease-detection",
+  "version": "1.0.0",
+  "description": "Tea leaf disease detection system for Assam smallholders",
+  "scripts": {
+    "dev": "python api/predict.py",
+    "vercel-build": "echo 'Build complete'"
+  },
+  "keywords": ["tea", "disease-detection", "ml", "agriculture", "assam"],
+  "author": "Your Name",
+  "license": "MIT"
+}
